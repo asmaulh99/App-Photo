@@ -24,6 +24,8 @@ php artisan migrate --seed
 ```
 
 For running this API you can use this command
+```sh
 php artisan serve
+```
 
 For the documentation API Endpoint you can go to this link [Photo API](https://www.postman.com/telecoms-specialist-49995159/workspace/photo-api)
