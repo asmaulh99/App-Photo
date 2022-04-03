@@ -15,16 +15,15 @@ DB_PORT=3306
 DB_DATABASE=yourdatabase
 DB_USERNAME=yourusername
 DB_PASSWORD=yourpassword
-
 ```
-Install the dependencies , run migration and seeder.
+Install the dependencies, run migration and seeder.
 
 ```sh
 composer install
 php artisan migrate --seed
 ```
 
-For running this API you can use PM2 with this command
+For running this API you can use this command
 php artisan serve
 
 For the documentation API Endpoint you can go to this link [Photo API](https://www.postman.com/telecoms-specialist-49995159/workspace/photo-api)
