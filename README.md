@@ -1,5 +1,5 @@
 
-### API Photo ###
+### Photo API ###
 
 This Rest API requires [Laravel](https://laravel.com/) to run. and using Mysql as database
 First fill the .env file
